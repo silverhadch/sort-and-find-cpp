@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/hadi/projects/find/build",
+  "command": "/usr/bin/c++ -g -o CMakeFiles/find.dir/main.cpp.o -c /home/hadi/projects/find/main.cpp",
+  "file": "/home/hadi/projects/find/main.cpp",
+  "output": "CMakeFiles/find.dir/main.cpp.o"
+}
+]

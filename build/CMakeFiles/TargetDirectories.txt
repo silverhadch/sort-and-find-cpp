@@ -1,0 +1,7 @@
+/home/hadi/projects/find/build/CMakeFiles/find.dir
+/home/hadi/projects/find/build/CMakeFiles/edit_cache.dir
+/home/hadi/projects/find/build/CMakeFiles/rebuild_cache.dir
+/home/hadi/projects/find/build/CMakeFiles/list_install_components.dir
+/home/hadi/projects/find/build/CMakeFiles/install.dir
+/home/hadi/projects/find/build/CMakeFiles/install/local.dir
+/home/hadi/projects/find/build/CMakeFiles/install/strip.dir
